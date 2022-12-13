@@ -1,0 +1,16 @@
+C:\Users\vinic\OneDrive\Área de Trabalho\ex curso ob\pMiniBanco\pMiniBanco\bin\Debug\net5.0\pMiniBanco.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\ex curso ob\pMiniBanco\pMiniBanco\bin\Debug\net5.0\pMiniBanco.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\ex curso ob\pMiniBanco\pMiniBanco\bin\Debug\net5.0\pMiniBanco.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\ex curso ob\pMiniBanco\pMiniBanco\bin\Debug\net5.0\pMiniBanco.runtimeconfig.dev.json
+C:\Users\vinic\OneDrive\Área de Trabalho\ex curso ob\pMiniBanco\pMiniBanco\bin\Debug\net5.0\pMiniBanco.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ex curso ob\pMiniBanco\pMiniBanco\bin\Debug\net5.0\pMiniBanco.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\ex curso ob\pMiniBanco\pMiniBanco\obj\Debug\net5.0\pMiniBanco.csproj.AssemblyReference.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\ex curso ob\pMiniBanco\pMiniBanco\obj\Debug\net5.0\pMiniBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\ex curso ob\pMiniBanco\pMiniBanco\obj\Debug\net5.0\pMiniBanco.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\ex curso ob\pMiniBanco\pMiniBanco\obj\Debug\net5.0\pMiniBanco.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\ex curso ob\pMiniBanco\pMiniBanco\obj\Debug\net5.0\pMiniBanco.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\ex curso ob\pMiniBanco\pMiniBanco\obj\Debug\net5.0\pMiniBanco.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ex curso ob\pMiniBanco\pMiniBanco\obj\Debug\net5.0\refint\pMiniBanco.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\ex curso ob\pMiniBanco\pMiniBanco\obj\Debug\net5.0\pMiniBanco.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\ex curso ob\pMiniBanco\pMiniBanco\obj\Debug\net5.0\pMiniBanco.genruntimeconfig.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\ex curso ob\pMiniBanco\pMiniBanco\obj\Debug\net5.0\ref\pMiniBanco.dll
