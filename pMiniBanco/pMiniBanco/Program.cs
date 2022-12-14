@@ -7,9 +7,8 @@ namespace pMiniBanco
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("---------MiniBanco Viniboy---------");
-            Console.WriteLine("Seja Bem Vindo ao MiniBanco Do Viniboy!\nPara iniarmos, digite como deseja entrar em nosso banco, \nse for novo por aqui faça um cadastro!\n");
 
+            
             int op = 0;
             User user = new User();
 
@@ -23,7 +22,7 @@ namespace pMiniBanco
                         break;
 
                     case 2:
-                        user.loginAccount();
+                        user.LoginAccount();
                         break;
                     case 3:
                         Console.WriteLine(user.ToString());
@@ -39,11 +38,16 @@ namespace pMiniBanco
         }
         static int Menu()
         {
+            Console.Clear();
+            Console.WriteLine("════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════");
+            Console.WriteLine("                                                  Banco Viniboy                                                         ");
+            Console.WriteLine("════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════");
+            Console.WriteLine("\nSeja Bem Vindo ao MiniBanco Do Viniboy!\nPara iniarmos, digite como deseja entrar em nosso banco, \nse for novo por aqui faça um cadastro!\n");
 
             int opc;
-            Console.WriteLine("1 - Create");
-            Console.WriteLine("2 - Login");
-            Console.WriteLine("3 - exibir contas");
+            Console.WriteLine("[1] - Create Account");
+            Console.WriteLine("[2] - Login Account");
+           
            
 
 
